@@ -1,0 +1,27 @@
+C:\Users\Reio\source\repos\Ülessanded\Ülessanded\bin\Debug\netcoreapp3.0\Ülessanded.exe
+C:\Users\Reio\source\repos\Ülessanded\Ülessanded\bin\Debug\netcoreapp3.0\Ülessanded.deps.json
+C:\Users\Reio\source\repos\Ülessanded\Ülessanded\bin\Debug\netcoreapp3.0\Ülessanded.runtimeconfig.json
+C:\Users\Reio\source\repos\Ülessanded\Ülessanded\bin\Debug\netcoreapp3.0\Ülessanded.runtimeconfig.dev.json
+C:\Users\Reio\source\repos\Ülessanded\Ülessanded\bin\Debug\netcoreapp3.0\Ülessanded.dll
+C:\Users\Reio\source\repos\Ülessanded\Ülessanded\bin\Debug\netcoreapp3.0\Ülessanded.pdb
+C:\Users\Reio\source\repos\Ülessanded\Ülessanded\obj\Debug\netcoreapp3.0\Ülessanded.csprojAssemblyReference.cache
+C:\Users\Reio\source\repos\Ülessanded\Ülessanded\obj\Debug\netcoreapp3.0\Ülessanded.AssemblyInfoInputs.cache
+C:\Users\Reio\source\repos\Ülessanded\Ülessanded\obj\Debug\netcoreapp3.0\Ülessanded.AssemblyInfo.cs
+C:\Users\Reio\source\repos\Ülessanded\Ülessanded\obj\Debug\netcoreapp3.0\Ülessanded.dll
+C:\Users\Reio\source\repos\Ülessanded\Ülessanded\obj\Debug\netcoreapp3.0\Ülessanded.pdb
+C:\Users\Reio\Desktop\Stuff\New folder\Ülesanded\Ülessanded\obj\Debug\netcoreapp3.0\Ülessanded.csprojAssemblyReference.cache
+C:\Users\Reio\Desktop\Stuff\New folder\Ülesanded\Ülessanded\obj\Debug\netcoreapp3.0\Ülessanded.AssemblyInfoInputs.cache
+C:\Users\Reio\Desktop\Stuff\New folder\Ülesanded\Ülessanded\obj\Debug\netcoreapp3.0\Ülessanded.AssemblyInfo.cs
+C:\Users\Reio\Desktop\Stuff\New folder\Ülesanded\Ülessanded\obj\Debug\netcoreapp3.0\Ülessanded.dll
+C:\Users\Reio\Desktop\Stuff\New folder\Ülesanded\Ülessanded\obj\Debug\netcoreapp3.0\Ülessanded.pdb
+C:\Users\Reio\Desktop\New folder\Ülesanded\Ülessanded\obj\Debug\netcoreapp3.0\Ülessanded.csprojAssemblyReference.cache
+C:\Users\Reio\Desktop\New folder\Ülesanded\Ülessanded\obj\Debug\netcoreapp3.0\Ülessanded.AssemblyInfoInputs.cache
+C:\Users\Reio\Desktop\New folder\Ülesanded\Ülessanded\obj\Debug\netcoreapp3.0\Ülessanded.AssemblyInfo.cs
+C:\Users\Reio\Desktop\New folder\Ülesanded\Ülessanded\bin\Debug\netcoreapp3.0\Ülessanded.exe
+C:\Users\Reio\Desktop\New folder\Ülesanded\Ülessanded\bin\Debug\netcoreapp3.0\Ülessanded.deps.json
+C:\Users\Reio\Desktop\New folder\Ülesanded\Ülessanded\bin\Debug\netcoreapp3.0\Ülessanded.runtimeconfig.json
+C:\Users\Reio\Desktop\New folder\Ülesanded\Ülessanded\bin\Debug\netcoreapp3.0\Ülessanded.runtimeconfig.dev.json
+C:\Users\Reio\Desktop\New folder\Ülesanded\Ülessanded\bin\Debug\netcoreapp3.0\Ülessanded.dll
+C:\Users\Reio\Desktop\New folder\Ülesanded\Ülessanded\bin\Debug\netcoreapp3.0\Ülessanded.pdb
+C:\Users\Reio\Desktop\New folder\Ülesanded\Ülessanded\obj\Debug\netcoreapp3.0\Ülessanded.dll
+C:\Users\Reio\Desktop\New folder\Ülesanded\Ülessanded\obj\Debug\netcoreapp3.0\Ülessanded.pdb
